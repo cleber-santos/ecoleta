@@ -29,7 +29,7 @@
 </p>
 
 
-## 💻 Sobre o projeto
+##  Sobre o projeto
 
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
@@ -48,10 +48,10 @@ Os usuários terão acesso ao site, onde poderão:
 - navegar para ver as instituições cadastradas de sua região
 - entrar em contato com a entidade através endereço informado
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela **[Rocketseat](https://rocketseat.com.br/)**.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-São 5 video aulas mostrando na pratica o uso das tecnologias, como JavaScript, HTML5 e CSS3.<br>
-Essa Trilha de aprendizado é mistrada pelo professor [Mayk Brito](https://www.linkedin.com/in/maykbrito/), onde é apresentado de modo prático e simples o uso destas tecnologias.
+São 5 video aulas mostrando na pratica o uso das tecnologias, como *JavaScript*, *HTML5* e *CSS3*.<br>
+Essa Trilha de aprendizado é mistrada pelo professor **[Mayk Brito](https://www.linkedin.com/in/maykbrito/)**, onde é apresentado de modo prático e simples o uso destas tecnologias.
 
 
 ## 🎨 Layout
