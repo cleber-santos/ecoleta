@@ -31,12 +31,11 @@
 
 ## 💻 Sobre o projeto
 
-♻️Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
-- nome da entidade, email e whatsapp
-- e o endereço para que ele possa aparecer no mapa
+- Endereço da entidade
 - além de selecionar um ou mais ítens de coleta: 
   - lâmpadas
   - pilhas e baterias
@@ -45,12 +44,14 @@ As empresas ou entidades poderão se cadastrar na plataforma web enviando:
   - resíduos orgânicos
   - óleo de cozinha
 
-Os usuários terão acesso ao aplicativo móvel, onde poderão:
-- navegar pelo mapa para ver as instituições cadastradas
-- entrar em contato com a entidade através do E-mail ou do WhatsApp
+Os usuários terão acesso ao site, onde poderão:
+- navegar para ver as instituições cadastradas de sua região
+- entrar em contato com a entidade através endereço informado
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+São 5 video aulas mostrando na pratica o uso das tecnologias, como JavaScript, HTML5 e CSS3.
+Essa Trilha de aprendizado é mistrada pelo professor [Mayk Brito](https://www.linkedin.com/in/maykbrito/), onde é apresentado de modo prático e simples o uso destas tecnologias.
 
 
 ## 🎨 Layout
@@ -64,7 +65,13 @@ O layout da aplicação está disponível no Figma:
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+🚧 em construção... 🚧
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+* HTML5
+* CSS3
+* JavaScript
 
 
 ## 😯 Como contribuir para o projeto
@@ -76,21 +83,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 
+## :computer: Downloads
+
+[vscode](https://code.visualstudio.com/)
+[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+[Microsoft Edge](https://www.microsoft.com/pt-br/edge)
+
+
 ## 📝 Licença
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
-
-Feito com ❤️ por Cleber Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cleber-rodrigo-santos)
-
-[nodejs]: https://nodejs.org/
-[typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
-[reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
-[vscode]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[license]: https://opensource.org/licenses/MIT
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-[rs]: https://rocketseat.com.br
+Feito por por Cleber Santos 👋🏽 [Meu linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos)
