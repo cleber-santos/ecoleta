@@ -1,6 +1,7 @@
 
 // () => {} isso é uma arrow function, inves de colocar a função (function var () {})
 
+// API do IBGE para Estados e cidades (Cadastro da entidade)
 
 function populateUFs() {
     const ufSelect = document.querySelector("select[name=uf]")
@@ -44,3 +45,47 @@ function getCities(event) {
 document
     .querySelector("select[name=uf]")//Seletor de elementos.
     .addEventListener("change", getCities)  //adiona um "Ouvidor" de eventos.
+
+// Itens de coleta
+
+const itemsToCollect = document.querySelectorAll(".itens-grid li")
+
+for (const item of itemsToCollect) {
+    item.addEventListener("click", handleSelectedItem)
+}
+
+const collectedItems = document.querySelector("input[name=itens]")
+
+let selectedItems = []
+
+function handleSelectedItem(event){
+    const itemLi = event.target
+
+    // Adicionar ou remover uma classe com Javascript
+    itemLi.classList.toggle("selected") /* toggle -> Adiciona ou remove (Se o item tiver a classe select ele remove, se o item NÃO tiver a classe selected ele adiciona) */
+
+    const itemId = itemLi.dataset.id
+
+    //Verificar se existem itens selecionados
+    //se SIM, pegar os itens selecionados.
+    const alreadySelected = selectedItems.findIndex( item => {
+        const itemFound = item == itemId // Isso será true ou false
+        return itemFound
+    })
+
+    //Se JÁ estiver selecionado 
+    if(alreadySelected >= 0){
+        //tirar da seleção.
+        const filteredItems = selectedItems.filter( item => {
+            const itemDifferent = item !== itemId
+            return itemDifferent
+        })
+        selectedItems = filteredItems    
+    } else {
+        //Se NÃO estiver selecionado, adicionar à seleção.
+        selectedItems.push(itemId)
+    }    
+
+    //Atualizar o campo escondido com os itens selecionados.
+    collectedItems.value = selectedItems
+}
