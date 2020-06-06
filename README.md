@@ -1,5 +1,3 @@
-# Ecoleta
- Projeto feito na NLW da Rocketseat
 
  <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" />
@@ -59,7 +57,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=1%3A8">
+<a href="https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)">
   <img alt="Feito por Cleber Santos" src="https://img.shields.io/badge/Link%20to-Figma-red">
 </a>
 
