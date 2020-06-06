@@ -26,6 +26,10 @@
    <a href="">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/cleber-santos/Ecoleta?style=social">
   </a>
+
+  <a href="">
+    <img alt="watches" src="https://img.shields.io/github/watchers/cleber-santos/ecoleta?style=social">
+  </a>
 </p>
 
 
