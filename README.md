@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
@@ -50,7 +50,7 @@ Os usuários terão acesso ao site, onde poderão:
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-São 5 video aulas mostrando na pratica o uso das tecnologias, como JavaScript, HTML5 e CSS3.
+São 5 video aulas mostrando na pratica o uso das tecnologias, como JavaScript, HTML5 e CSS3.<br>
 Essa Trilha de aprendizado é mistrada pelo professor [Mayk Brito](https://www.linkedin.com/in/maykbrito/), onde é apresentado de modo prático e simples o uso destas tecnologias.
 
 
@@ -73,7 +73,6 @@ As seguintes tecnologias foram usadas na construção do projeto:
 * CSS3
 * JavaScript
 
-
 ## 😯 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -85,9 +84,9 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## :computer: Downloads
 
-[vscode](https://code.visualstudio.com/)
-[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
-[Microsoft Edge](https://www.microsoft.com/pt-br/edge)
+[vscode](https://code.visualstudio.com/)<br><br>
+[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)<br><br>
+[Microsoft Edge](https://www.microsoft.com/pt-br/edge)<br><br>
 
 
 ## 📝 Licença
