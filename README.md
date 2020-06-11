@@ -1,6 +1,6 @@
 
  <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/logo.svg" />
 </h1>
 
 <h4 align="center"> 
@@ -97,5 +97,5 @@ As seguintes tecnologias foram usadas na construção do projeto:
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 <br><br>
 
-Feito por **Cleber Santos** &nbsp; [![Conheçam meu Linkedin](<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>)](https://www.linkedin.com/in/cleber-rodrigo-santos)
+Feito por **Cleber Santos** &nbsp; [![Conheçam meu Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/cleber-rodrigo-santos)
 ---
