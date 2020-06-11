@@ -16,5 +16,9 @@ server.get("/create-point", (req, res) => {
     res.sendFile(__dirname + "/views/create-point.html")
 })
 
+server.get("/search", (req, res) => {
+    res.sendFile(__dirname + "/views/search.html")
+})
+
 // ligar o servidor
 server.listen(9000)
