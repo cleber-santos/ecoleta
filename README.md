@@ -101,4 +101,5 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/
 Feito por **Cleber Santos**
 ---
 
-[![Conheçam meu Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/cleber-rodrigo-santos) &nbsp; [Conheçam meu linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos)
+[![Conheçam meu Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/cleber-rodrigo-santos) 
+
