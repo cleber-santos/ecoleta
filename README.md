@@ -76,6 +76,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 * HTML5
 * CSS3
 * JavaScript
+* nodeJs
 
 ## 😯 Como contribuir para o projeto
 
@@ -97,5 +98,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 <br><br>
 
-Feito por **Cleber Santos** &nbsp; [![Conheçam meu Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/cleber-rodrigo-santos)
+Feito por **Cleber Santos**
 ---
+
+[![Conheçam meu Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/cleber-rodrigo-santos) &nbsp; [Conheçam meu linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos)
