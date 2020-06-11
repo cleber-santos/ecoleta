@@ -97,5 +97,5 @@ As seguintes tecnologias foram usadas na construção do projeto:
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 <br><br>
 
-Feito por **Cleber Santos** &nbsp; [![Conheçam meu Linkedin](https://image.flaticon.com/icons/svg/174/174857.svg)](https://www.linkedin.com/in/cleber-rodrigo-santos)
+Feito por **Cleber Santos** &nbsp; [![Conheçam meu Linkedin](<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>)](https://www.linkedin.com/in/cleber-rodrigo-santos)
 ---
