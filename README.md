@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek #NLW em construção... 🚧
+	 NextLevelWeek #NLW em construção...
 </h4>
 
 <p align="center">
@@ -68,8 +68,6 @@ O layout da aplicação está disponível no Figma:
 
 
 ## 🛠 Tecnologias
-
-🚧 em construção... 🚧
 
 As seguintes tecnologias foram usadas na construção do projeto:
 

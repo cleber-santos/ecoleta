@@ -21,4 +21,4 @@ server.get("/search", (req, res) => {
 })
 
 // ligar o servidor
-server.listen(9000)
+server.listen(3000)
